@@ -29,6 +29,8 @@ Resultado calcularRecursivo(int a, int b) {
 int main() {
     int a, b;
 
+    printf("--- Funcao Recursiva ---\n");
+
     printf("--- Calculo de Soma e Diferenca ---\n");
     
     printf("Digite o valor de a: ");
